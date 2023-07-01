@@ -45,7 +45,7 @@ accountbtn.addEventListener('click', (event) => {
 
     alert("Account created Successfully");
      // window.location.assign("file:///C:/Users/Aniket/Desktop/Shop%20Project/loginpage/login.html");
-    window.location.assign("https://aniket230297.github.io/contestthird/signuppage/signup.html");
+    window.location.assign("https://aniket230297.github.io/contestthird/loginpage/login.html");
             
     // return true;
 
