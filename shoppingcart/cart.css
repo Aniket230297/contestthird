@@ -1,0 +1,117 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+#mini-container{
+    background-color:antiquewhite;
+    height: 100vh;
+}
+
+.navbar{
+    width:100vw;
+    height:50px;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.shop-icon{
+    padding:15px;
+    font-size:25px;
+    margin-left:20px;
+}
+
+.shop-name{
+    padding: 13px;
+    font-size: 25px;
+}
+
+.login-container{
+    width:100vw;
+    height:40px;
+    background-color: black;
+    color: white;
+    display: none;
+}
+
+.login-button{
+    width:60px;
+    height:30px;
+    font-size: 20px;
+    margin-left:35px;
+    border: none;
+    background-color: black;
+    color: white;
+   
+}
+
+#left-faicon{
+    width:150px;
+    /* border:1px solid white; */
+    margin-left: 900px;
+    text-align: center;
+}
+
+.filtericon{
+    font-size: 30px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+.signouticon{
+    font-size: 30px;
+}
+
+.user-info{
+    width:100%;
+    height:50px;
+    display: flex;
+    background-color: black;
+    color:white;
+    display: none;
+    
+}
+
+.usericon{
+    font-size: 30px;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+#userinfo{
+    margin-left:25px;
+    font-size: 20px;
+    margin-top: 15px;
+  
+}
+
+/* Search Part Styling */
+#search{
+    width:90%;
+    height:40px;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 10px;
+    border: 0.5px solid black;
+    border-radius: 5px;
+}
+
+/* buttons styling */
+
+#btn-container{
+    width:90%;
+    height:40px;
+    /* border:1px solid red; */
+    margin-left: 30px;
+    margin-top:10px;
+    display: flex;
+    gap:2%;
+}
+.clickingbtn{
+     width:18%;
+     border-radius: 10px;
+     border:0.5px solid black;
+     background-color:antiquewhite;
+     font-size: 18px;
+}
